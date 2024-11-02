@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekiyoaxu.github.io/LZu/sitemap_index.txt
+Sitemap: https://ekiyoaxu.github.io/URN/sitemap_index.txt
+Sitemap: https://ekiyoaxu.github.io/UdB/sitemap_index.txt
+Sitemap: https://ekiyoaxu.github.io/kDT/sitemap_index.txt
